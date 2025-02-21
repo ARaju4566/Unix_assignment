@@ -28,7 +28,13 @@ du -h snp_position.txt
 By inspecting this file I learned that:
 The snp_position.txt file has 984 lines 13198 words and 82763 characters and 15 columns 
 
-#Maize Data
+###attributes if transpose_genotypes.txt
+~~~
+here is my snippet of code used for data inspection
+wc transpose_genotypes.txt
+~~~
+ By inspecting this file I learned that transpose_genotypes.txt has 986 lines 2744038 words 11051939 characters
+ 
 
 
 
